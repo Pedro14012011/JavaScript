@@ -1,4 +1,4 @@
-function exemploVar() {
+function exemploLet() {
     let x = 10;
     if (true) {
         let x = 20;
@@ -7,4 +7,4 @@ function exemploVar() {
     console.log(x);
 }
 
-exemploVar();
+exemploLet();
