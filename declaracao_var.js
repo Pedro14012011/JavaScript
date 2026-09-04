@@ -6,3 +6,5 @@ function exemploVar() {
     }
     console.log(x);
 }
+
+exemploVar();
